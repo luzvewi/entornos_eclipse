@@ -1,5 +1,6 @@
 package package1;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class class1 {
@@ -20,5 +21,10 @@ public static void main(String[] args) {
 	if(fruta.equals(tomate))
 		boolean2=true;
 	System.out.println("la fruta es una patata? "+boolean1+" la fruta es un tomate? "+boolean2);
+=======
+public class class1 {
+public static void main(String[] args) {
+	System.out.println("hola");
+>>>>>>> refs/heads/rama_nueva
 }
 }
