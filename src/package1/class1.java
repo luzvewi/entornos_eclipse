@@ -20,4 +20,6 @@ public static void main(String[] args) {
 	if(fruta.equals(tomate))
 		boolean2=true;
 	System.out.println("la fruta es una patata? "+boolean1+" la fruta es un tomate? "+boolean2);
+	System.out.println("la fruta es una patata? "+boolean1+" la fruta es un tomate? "+boolean2);
+	System.out.println("la fruta es una patata? "+boolean1+" la fruta es un tomate? "+boolean2);
 }}
